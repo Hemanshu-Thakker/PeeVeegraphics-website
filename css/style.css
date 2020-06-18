@@ -51,7 +51,7 @@
 }*/
 
 .secdimg{
-	background-image: url(../image/wallpap.jpg);
+	/*background-image: url(../image/wallpap.jpg);*/
 	/*background-color: black;*/
 	background-size: cover;
 	background-position: center;
@@ -326,4 +326,7 @@
 }
 .sizoo{
 	width: 6px;
+}
+.carouselimagedim{
+	height: 100vh;
 }
